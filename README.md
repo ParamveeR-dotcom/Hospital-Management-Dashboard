@@ -65,7 +65,8 @@ The dataset contains hospital records including:
 ---
 
 ## Dashboard Preview
-<img width="480" height="305" alt="image" src="https://github.com/user-attachments/assets/6e5a0d35-fcb0-4b0d-b3c3-ed635c868ddf" />
+<img width="1280" height="814" alt="image" src="https://github.com/user-attachments/assets/438c40e9-6d32-4bf5-bb87-948a253530ef" />
+
 <img width="1278" height="765" alt="image" src="https://github.com/user-attachments/assets/827186b0-8f28-4acd-9311-bc51a7c524ab" />
 
 
